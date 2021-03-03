@@ -1,0 +1,32 @@
+2021-03-02 17:32:23,027 DEBUG com.calc.Calculator [main] Addtion methd call started
+2021-03-02 17:32:23,036 DEBUG com.calc.Calculate [main] Total of two number:23,34 is -57
+2021-03-02 17:32:23,042 DEBUG com.calc.Calculator [main] subtraction methd call started
+2021-03-02 17:32:23,042 DEBUG com.calc.Calculate [main] subtraction of two number:23,34 is -68
+2021-03-02 17:32:23,042 DEBUG com.calc.Calculator [main] multiplication methd call started
+2021-03-02 17:32:23,042 DEBUG com.calc.Calculate [main] multiplication of two number:23,34 is -1311
+2021-03-02 17:32:23,044 DEBUG com.calc.Calculator [main] division methd call started
+2021-03-02 17:32:23,045 DEBUG com.calc.Calculate [main] division of two number:23,34 is -1.0
+2021-03-02 17:42:35,860 DEBUG com.calc.Calculator [main] Addtion methd call started
+2021-03-02 17:42:35,871 DEBUG com.calc.Calculate [main] Total of two number:23,34 is -57
+2021-03-02 17:42:35,877 DEBUG com.calc.Calculator [main] subtraction methd call started
+2021-03-02 17:42:35,878 DEBUG com.calc.Calculate [main] subtraction of two number:23,34 is -68
+2021-03-02 17:42:35,878 DEBUG com.calc.Calculator [main] multiplication methd call started
+2021-03-02 17:42:35,878 DEBUG com.calc.Calculate [main] multiplication of two number:23,34 is -1311
+2021-03-02 17:42:35,879 DEBUG com.calc.Calculator [main] division methd call started
+2021-03-02 17:42:35,879 DEBUG com.calc.Calculate [main] division of two number:23,34 is -1.0
+2021-03-02 17:46:55,142 DEBUG com.calc.Calculator [main] Addtion methd call started
+2021-03-02 17:46:55,187 DEBUG com.calc.Calculate [main] Total of two number:23,34 is -57
+2021-03-02 17:46:55,202 DEBUG com.calc.Calculator [main] subtraction methd call started
+2021-03-02 17:46:55,202 DEBUG com.calc.Calculate [main] subtraction of two number:23,34 is -68
+2021-03-02 17:46:55,203 DEBUG com.calc.Calculator [main] multiplication methd call started
+2021-03-02 17:46:55,205 DEBUG com.calc.Calculate [main] multiplication of two number:23,34 is -1311
+2021-03-02 17:46:55,206 DEBUG com.calc.Calculator [main] division methd call started
+2021-03-02 17:46:55,206 DEBUG com.calc.Calculate [main] division of two number:23,34 is -1.0
+2021-03-03 11:31:07,113 DEBUG com.calc.Calculator [main] Addtion
+2021-03-03 11:31:07,128 DEBUG com.calc.Calculate [main] Addition  of two numbers : 
+2021-03-03 11:31:07,166 DEBUG com.calc.Calculator [main] subtraction 
+2021-03-03 11:31:07,166 DEBUG com.calc.Calculate [main] subtraction of two numbers :
+2021-03-03 11:31:07,166 DEBUG com.calc.Calculator [main] multiplication
+2021-03-03 11:31:07,166 DEBUG com.calc.Calculate [main] multiplication of two number: 
+2021-03-03 11:31:07,167 DEBUG com.calc.Calculator [main] division
+2021-03-03 11:31:07,168 DEBUG com.calc.Calculate [main] division of two number: 

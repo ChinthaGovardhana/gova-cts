@@ -1,0 +1,82 @@
+src/main/java/com/calc/Calculate.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/calc/Calculate.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/calc/Calculate.java:6:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/calc/Calculate.java:6:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/calc/Calculate.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/calc/Calculate.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/calc/Calculate.java:8:	FieldNamingConventions:	FieldNamingConventions: The constant name 'logger' doesn't match '[A-Z][A-Z_0-9]*'
+src/main/java/com/calc/Calculate.java:8:	FieldNamingConventions:	FieldNamingConventions: The constant name 'logger' doesn't match '[A-Z][A-Z_0-9]*'
+src/main/java/com/calc/Calculate.java:8:	VariableNamingConventions:	VariableNamingConventions: Variables that are final and static should be all capitals, 'logger' is not all capitals.
+src/main/java/com/calc/Calculate.java:8:	VariableNamingConventions:	VariableNamingConventions: Variables that are final and static should be all capitals, 'logger' is not all capitals.
+src/main/java/com/calc/Calculate.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/calc/Calculate.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/calc/Calculate.java:9:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/calc/Calculate.java:9:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/calc/Calculate.java:11:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'calculator' could be declared final
+src/main/java/com/calc/Calculate.java:11:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'calculator' could be declared final
+src/main/java/com/calc/Calculate.java:12:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sum' could be declared final
+src/main/java/com/calc/Calculate.java:12:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sum' could be declared final
+src/main/java/com/calc/Calculate.java:14:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sub' could be declared final
+src/main/java/com/calc/Calculate.java:14:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sub' could be declared final
+src/main/java/com/calc/Calculate.java:17:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mul' could be declared final
+src/main/java/com/calc/Calculate.java:17:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mul' could be declared final
+src/main/java/com/calc/Calculate.java:20:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'div' could be declared final
+src/main/java/com/calc/Calculate.java:20:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'div' could be declared final
+src/main/java/com/calc/Calculator.java:6:	UnusedImports:	UnusedImports: Avoid unused imports such as 'lombok.AllArgsConstructor'
+src/main/java/com/calc/Calculator.java:6:	UnusedImports:	UnusedImports: Avoid unused imports such as 'lombok.AllArgsConstructor'
+src/main/java/com/calc/Calculator.java:18:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/calc/Calculator.java:18:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/calc/Calculator.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/calc/Calculator.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/calc/Calculator.java:20:	FieldNamingConventions:	FieldNamingConventions: The constant name 'logger' doesn't match '[A-Z][A-Z_0-9]*'
+src/main/java/com/calc/Calculator.java:20:	FieldNamingConventions:	FieldNamingConventions: The constant name 'logger' doesn't match '[A-Z][A-Z_0-9]*'
+src/main/java/com/calc/Calculator.java:20:	VariableNamingConventions:	VariableNamingConventions: Variables that are final and static should be all capitals, 'logger' is not all capitals.
+src/main/java/com/calc/Calculator.java:20:	VariableNamingConventions:	VariableNamingConventions: Variables that are final and static should be all capitals, 'logger' is not all capitals.
+src/main/java/com/calc/Calculator.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/calc/Calculator.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/calc/Calculator.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'i' is not assigned and could be declared final
+src/main/java/com/calc/Calculator.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'i' is not assigned and could be declared final
+src/main/java/com/calc/Calculator.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'j' is not assigned and could be declared final
+src/main/java/com/calc/Calculator.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'j' is not assigned and could be declared final
+src/main/java/com/calc/Calculator.java:21:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+src/main/java/com/calc/Calculator.java:21:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+src/main/java/com/calc/Calculator.java:21:	ShortVariable:	ShortVariable: Avoid variables with short names like j
+src/main/java/com/calc/Calculator.java:21:	ShortVariable:	ShortVariable: Avoid variables with short names like j
+src/main/java/com/calc/Calculator.java:24:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/com/calc/Calculator.java:24:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/com/calc/Calculator.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/calc/Calculator.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/calc/Calculator.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'i' is not assigned and could be declared final
+src/main/java/com/calc/Calculator.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'i' is not assigned and could be declared final
+src/main/java/com/calc/Calculator.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'j' is not assigned and could be declared final
+src/main/java/com/calc/Calculator.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'j' is not assigned and could be declared final
+src/main/java/com/calc/Calculator.java:27:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+src/main/java/com/calc/Calculator.java:27:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+src/main/java/com/calc/Calculator.java:27:	ShortVariable:	ShortVariable: Avoid variables with short names like j
+src/main/java/com/calc/Calculator.java:27:	ShortVariable:	ShortVariable: Avoid variables with short names like j
+src/main/java/com/calc/Calculator.java:31:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/com/calc/Calculator.java:31:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/com/calc/Calculator.java:34:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/calc/Calculator.java:34:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/calc/Calculator.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'i' is not assigned and could be declared final
+src/main/java/com/calc/Calculator.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'i' is not assigned and could be declared final
+src/main/java/com/calc/Calculator.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'j' is not assigned and could be declared final
+src/main/java/com/calc/Calculator.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'j' is not assigned and could be declared final
+src/main/java/com/calc/Calculator.java:34:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+src/main/java/com/calc/Calculator.java:34:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+src/main/java/com/calc/Calculator.java:34:	ShortVariable:	ShortVariable: Avoid variables with short names like j
+src/main/java/com/calc/Calculator.java:34:	ShortVariable:	ShortVariable: Avoid variables with short names like j
+src/main/java/com/calc/Calculator.java:38:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/com/calc/Calculator.java:38:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/com/calc/Calculator.java:41:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/calc/Calculator.java:41:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/calc/Calculator.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'i' is not assigned and could be declared final
+src/main/java/com/calc/Calculator.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'i' is not assigned and could be declared final
+src/main/java/com/calc/Calculator.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'j' is not assigned and could be declared final
+src/main/java/com/calc/Calculator.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'j' is not assigned and could be declared final
+src/main/java/com/calc/Calculator.java:41:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+src/main/java/com/calc/Calculator.java:41:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+src/main/java/com/calc/Calculator.java:41:	ShortVariable:	ShortVariable: Avoid variables with short names like j
+src/main/java/com/calc/Calculator.java:41:	ShortVariable:	ShortVariable: Avoid variables with short names like j
+src/main/java/com/calc/Calculator.java:45:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/com/calc/Calculator.java:45:	UselessParentheses:	UselessParentheses: Useless parentheses.
